@@ -12,7 +12,7 @@
 
 - 🌱 I'm currently deep-diving into **Python, Django, Flask, and MySQL**
 - 💬 Ask me about **Python, Django, Flask, React.js**
-- 📫 Reach me at: **alzehad71@gmail.com**
+- 📫 Reach me at: **alzehad.dev@gmail.com**
 - 🎯 **Current Focus:** Becoming a skilled Full Stack Python Developer
 - 🤝 **Goal:** Contribute to open source and build real-world applications
 
